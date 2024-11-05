@@ -1,7 +1,28 @@
-## Hi there 👋 Alex vaygok
+[![Repos Badge](https://badges.pufler.dev/repos/RedBit-devs)](https://badges.pufler.dev)
+
+## Ahoi! 
+
+### 🙋‍♂️ We are the developers behind RedBit.
+Our last and most important school project is the reason for the creation of this organisation.
+
+#### Currently we do not accept pull requests from people outside the organisation.
 
 
+### Contributors to [RedBit](https://github.com/RedBit-devs/RedBit) :
+[![Contributors Display](https://badges.pufler.dev/contributors/RedBit-devs/RedBit?size=40&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+
+---
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <!--
+
+badges from:
+- https://github.com/Ileriayo/markdown-badges#readme
+- https://pufler.dev/badge-it/
+
 
 **Here are some ideas to get you started:**
 
