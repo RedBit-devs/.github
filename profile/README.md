@@ -1,4 +1,5 @@
 [![Repos Badge](https://badges.pufler.dev/repos/RedBit-devs)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/RedBit-devs/RedBit)](https://badges.pufler.dev)
 
 ## Ahoi! 
 
