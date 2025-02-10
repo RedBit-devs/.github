@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/caf9d392-dd93-467b-b10e-887d2590f0e2/deploy-status)](https://app.netlify.com/sites/redbit/deploys)
 [![Repos Badge](https://badges.pufler.dev/repos/RedBit-devs)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/RedBit-devs/RedBit)](https://badges.pufler.dev)
 
